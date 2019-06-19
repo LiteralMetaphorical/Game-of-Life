@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+}
+
+canvas {
+  outline: 1px solid black;
+}
+
+#generation-div {
+  margin-left: 10px;
+  font-family: arial;
+  display: inline-flex;
+  flex-direction: row;
+}
